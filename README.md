@@ -1,2 +1,3 @@
 # kotlinFirstProject
-I-don't-know-yet!
+My first repository on github
+I love learn kotlin!
